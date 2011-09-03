@@ -57,7 +57,8 @@ class progressBar
      * @param $width int (Width of progressbar in pixels)
      * @param $height int (Height of progressbar in pixels)
      */
-    public function setSize($width, $height) {
+    public function setSize($width, $height)
+    {
         $this->width = $width;
         $this->height = $height;
     }
@@ -66,7 +67,8 @@ class progressBar
      * Sets the suffix string
      * @param $suffix string
      */
-    public function setSuffix($suffix) {
+    public function setSuffix($suffix)
+    {
         $this->suffix = $suffix;
     }
 
@@ -74,7 +76,8 @@ class progressBar
      * Sets whether to use absolute values or not
      * @param $absVal bool (true or false, display absolute values instead of percent values)
      */
-    public function setAbsVal($absVal) {
+    public function setAbsVal($absVal)
+    {
         $this->absVal = $absVal;
     }
 
