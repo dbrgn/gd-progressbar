@@ -36,7 +36,7 @@ $p->draw();
 ?>
 ```
 
-![Example 1](http://github.com/gwrtheyrn/gd-progressbar/raw/master/example1.png)
+![Example 1](http://github.com/dbrgn/gd-progressbar/raw/master/example1.png)
 
 ```php
 <?php
@@ -47,7 +47,7 @@ $p->draw();
 ?>
 ```
 
-![Example 2](http://github.com/gwrtheyrn/gd-progressbar/raw/master/example2.png)
+![Example 2](http://github.com/dbrgn/gd-progressbar/raw/master/example2.png)
 
 ```php
 <?php
@@ -62,7 +62,7 @@ $p->draw();
 ?>
 ```
 
-![Example 3](http://github.com/gwrtheyrn/gd-progressbar/raw/master/example3.png)
+![Example 3](http://github.com/dbrgn/gd-progressbar/raw/master/example3.png)
 
 License
 -------
